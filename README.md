@@ -5,7 +5,7 @@ An uninstaller for ClickOnce applications
 
 Apparently, ClickOnce installations can't be removed silently. The ClickOnce uninstaller always shows a "Maintainance" dialog, requiring user interaction. 
 
-For [Wunderlist](http://www.6wunderkinder.com/wunderlist) 2.1 we wanted to switch from a ClickOnce deployment to a Windows Installer package using the [WiX Toolset](http://wixtoolset.org/). We wanted this switch to be integrated into our new installer, invisible to the user.
+For [Wunderlist](http://www.wunderlist.com) 2.1 we wanted to switch from a ClickOnce deployment to a Windows Installer package using the [WiX Toolset](http://wixtoolset.org/). We wanted this switch to be integrated into our new installer, invisible to the user.
 
 ### What?
 
